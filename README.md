@@ -12,17 +12,26 @@ This repository contains a Jupyter Notebook implementing **Canny Edge Detection*
 
 ## 🧪 Dependencies
 
+## 🧪 Dependencies
+
 To run this notebook, you need the following Python libraries:
 
 - `opencv-python`
 - `matplotlib`
 - `numpy`
+- `imutils`
+- `easyocr`
 
 Install them using pip:
 
 ```bash
-pip install opencv-python matplotlib numpy
+pip install opencv-python
+pip install matplotlib
+pip install numpy
+pip install imutils
+pip install easyocr
 ```
+
 
 ## 📝 How to Run
 
