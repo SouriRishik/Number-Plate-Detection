@@ -63,4 +63,4 @@ The algorithm involves the following steps:
 - `canny_edge_detection.ipynb` — Main notebook demonstrating the edge detection process for images.+
 - `video_number_plate_detection.ipynb` — Main notebook demonstrating the edge detection process for videos.
 - `different_number_plates.ipynb` — Main notebook demonstrating the edge detection process for different colour number plates.
-- 
+- `haarcascade.ipynb` — Main notebook demonstrating the number plate detection using `haarcascade_russian_plate_number.xml`.
