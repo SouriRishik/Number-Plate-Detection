@@ -60,5 +60,7 @@ The algorithm involves the following steps:
 
 ## 📂 Files
 
-- `canny_edge_detection.ipynb` — Main notebook demonstrating the edge detection process for images.
-- `video_number_plate_detection.ipynb` — Main notebook demonstrating the edge detection process for images.
+- `canny_edge_detection.ipynb` — Main notebook demonstrating the edge detection process for images.+
+- `video_number_plate_detection.ipynb` — Main notebook demonstrating the edge detection process for videos.
+- `different_number_plates.ipynb` — Main notebook demonstrating the edge detection process for different colour number plates.
+- 
